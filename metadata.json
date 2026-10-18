@@ -1,0 +1,6 @@
+{
+  "name": "EuroSeason Job Agent & Dispatcher",
+  "description": "AI agent that scrapes and analyzes European seasonal job postings, syncs records to Google Sheets, and dispatches instant alerts via Telegram and WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
